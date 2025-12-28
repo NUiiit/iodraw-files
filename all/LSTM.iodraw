@@ -128,10 +128,10 @@
         <mxCell id="mHdvLoG_saRVIZOpg7ra-34" value="&lt;div class=&quot;hljs&quot;&gt;&lt;code&gt;上下文LSTM-文本&lt;/code&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-35" value="&lt;div class=&quot;hljs&quot;&gt;&lt;code&gt;上下文LSTM-视觉&lt;/code&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-35" value="&lt;div class=&quot;hljs&quot;&gt;&lt;code&gt;上下文LSTM-视觉&lt;/code&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-36" value="&lt;div class=&quot;hljs&quot;&gt;&lt;code&gt;上下文LSTM-音频&lt;/code&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-36" value="&lt;div class=&quot;hljs&quot;&gt;&lt;code&gt;上下文LSTM-音频&lt;/code&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mHdvLoG_saRVIZOpg7ra-51" value="分类决策" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -237,7 +237,7 @@
             <mxRectangle width="58" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-278" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-263">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-278" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=default;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-263">
           <mxGeometry x="240" width="60" height="35" as="geometry">
             <mxRectangle width="60" height="35" as="alternateBounds" />
           </mxGeometry>
