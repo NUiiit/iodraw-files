@@ -283,17 +283,17 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-293" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=default;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;swimlaneLine=1;strokeWidth=18;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-290">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-293" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;swimlaneLine=1;strokeWidth=18;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-290">
           <mxGeometry x="120" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-296" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;swimlaneLine=1;strokeWidth=18;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-290">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-296" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;swimlaneLine=1;strokeWidth=18;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-290">
           <mxGeometry x="180" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-299" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;swimlaneLine=1;strokeWidth=18;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-290">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-299" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;swimlaneLine=1;strokeWidth=18;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-290">
           <mxGeometry x="240" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
