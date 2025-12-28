@@ -202,7 +202,7 @@
         <mxCell id="mHdvLoG_saRVIZOpg7ra-255" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="790" y="740" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-257" value="&lt;font face=&quot;Verdana&quot;&gt;上下文无关的单模态特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-257" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;上下文无关的单模态特征&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="825" y="312" width="150" height="27" as="geometry" />
         </mxCell>
         <mxCell id="mHdvLoG_saRVIZOpg7ra-258" value="&lt;font face=&quot;Verdana&quot;&gt;上下文相关的单模态特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -211,7 +211,7 @@
         <mxCell id="mHdvLoG_saRVIZOpg7ra-260" value="&lt;font face=&quot;Verdana&quot;&gt;上下文相关的多模态特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="825" y="807" width="150" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-307" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fixedRows=0;strokeColor=default;columnLines=0;rowLines=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-307" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fixedRows=0;strokeColor=default;columnLines=0;rowLines=0;top=0;bottom=0;left=0;right=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="313" y="607" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mHdvLoG_saRVIZOpg7ra-308" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#36393d;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#cdeb8b;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-307">
