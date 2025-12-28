@@ -232,7 +232,7 @@
             <mxRectangle width="62" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-275" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;labelBorderColor=default;labelBackgroundColor=none;fontColor=default;textShadow=0;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-263">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-275" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;labelBorderColor=default;labelBackgroundColor=none;fontColor=default;textShadow=0;shadow=0;strokeWidth=3;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-263">
           <mxGeometry x="182" width="58" height="35" as="geometry">
             <mxRectangle width="58" height="35" as="alternateBounds" />
           </mxGeometry>
