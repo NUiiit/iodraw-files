@@ -38,7 +38,7 @@
         <mxCell id="mHdvLoG_saRVIZOpg7ra-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mHdvLoG_saRVIZOpg7ra-1" target="mHdvLoG_saRVIZOpg7ra-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-1" value="基于CNN的文本特征提取" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-1" value="基于CNN的&lt;div&gt;文本特征提取&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mHdvLoG_saRVIZOpg7ra-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mHdvLoG_saRVIZOpg7ra-2" target="mHdvLoG_saRVIZOpg7ra-24">
@@ -211,7 +211,7 @@
         <mxCell id="mHdvLoG_saRVIZOpg7ra-260" value="&lt;font face=&quot;Verdana&quot;&gt;上下文相关的多模态特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="825" y="807" width="150" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-281" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;strokeWidth=22;fillStyle=zigzag-line;swimlaneFillColor=default;fillColor=#000000;strokeColor=none;rowLines=1;columnLines=1;shadow=0;rounded=0;swimlaneLine=0;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;resizeLastRow=0;fixedRows=0;absoluteArcSize=0;arcSize=22;perimeterSpacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-281" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;strokeWidth=22;fillStyle=solid;swimlaneFillColor=default;fillColor=#000000;strokeColor=none;rowLines=1;columnLines=1;shadow=0;rounded=0;swimlaneLine=0;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;resizeLastRow=0;fixedRows=0;absoluteArcSize=0;arcSize=22;perimeterSpacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="611" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mHdvLoG_saRVIZOpg7ra-282" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=default;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;swimlaneLine=1;strokeWidth=18;fillStyle=solid;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-281">
