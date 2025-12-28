@@ -135,10 +135,10 @@
           <mxGeometry x="580" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mHdvLoG_saRVIZOpg7ra-51" value="分类决策" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="875" width="120" height="50" as="geometry" />
+          <mxGeometry x="400" y="850" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHdvLoG_saRVIZOpg7ra-55" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="790" y="240" width="20" height="220" as="geometry" />
+          <mxGeometry x="790" y="240" width="20" height="170" as="geometry" />
         </mxCell>
         <mxCell id="mHdvLoG_saRVIZOpg7ra-56" value="&lt;h3&gt;上下文无关的单模态特征&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="260" width="180" height="60" as="geometry" />
