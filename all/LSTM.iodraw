@@ -134,9 +134,6 @@
         <mxCell id="mHdvLoG_saRVIZOpg7ra-36" value="&lt;div class=&quot;hljs&quot;&gt;&lt;code&gt;上下文LSTM（Level 1）-文本&lt;/code&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="535" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-50" value="&lt;div class=&quot;hljs&quot;&gt;&lt;code&gt;上下文LSTM&lt;/code&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="1050" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mHdvLoG_saRVIZOpg7ra-51" value="分类决策" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -185,7 +182,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-102" value="&lt;pre class=&quot;hljs&quot;&gt;&lt;code&gt;|上下文LSTM&lt;/code&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-102" value="&lt;pre class=&quot;hljs&quot;&gt;&lt;code&gt;上下文LSTM&lt;/code&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mHdvLoG_saRVIZOpg7ra-103" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="mHdvLoG_saRVIZOpg7ra-102">
