@@ -191,13 +191,13 @@
             <mxPoint x="330" y="765" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-230" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;swimlaneLine=1;strokeWidth=3;perimeterSpacing=3;fillColor=#009900;strokeColor=#36393d;fillStyle=solid;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-230" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;swimlaneLine=1;strokeWidth=3;perimeterSpacing=3;fillColor=#009900;strokeColor=default;fillStyle=solid;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="610" width="300" height="107.5882352941178" as="geometry" />
         </mxCell>
         <mxCell id="mHdvLoG_saRVIZOpg7ra-231" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#009900;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillStyle=solid;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-230">
           <mxGeometry width="300" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="mHdvLoG_saRVIZOpg7ra-232" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#009900;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fillStyle=solid;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-231">
+        <mxCell id="mHdvLoG_saRVIZOpg7ra-232" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=#009900;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fillStyle=solid;" vertex="1" parent="mHdvLoG_saRVIZOpg7ra-231">
           <mxGeometry width="59" height="36" as="geometry">
             <mxRectangle width="59" height="36" as="alternateBounds" />
           </mxGeometry>
